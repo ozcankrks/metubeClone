@@ -1,0 +1,36 @@
+
+.left-menu {
+	width: auto;
+}
+
+.tumbpost {
+	margin-bottom: 5px;
+}
+
+.img-resize {
+	width: 100%;
+	min-height: 100px;
+}
+
+
+.video-blok {
+	width: 180px;
+	height: 140px;
+	overflow: hidden;
+	float: left;
+	margin: 5px;
+}
+
+.grid-title {
+	width: 100%;
+	font-size: 20px;
+	font-style: bolder;
+}
+
+.sol-nav li a{
+	color: black;
+}
+
+.color-black {
+	color: black;
+}

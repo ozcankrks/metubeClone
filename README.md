@@ -14,7 +14,7 @@ Kullanılan Veri Tabanı : MySQL
 
 Metube php diline giriş ve Database deneyimi sağlamak adına oluşturulmuş bir projedir. Bunun yanında  Sistem analiz ve Tasarım dersi Projesi olarak sunulmuştur.
 
-**Canlı Link :**  [https://metube.ozcankrks.com](https://metube.ozcankrks.com/ "https://metube.ozcankrks.com")
+**Canlı Link :**  [https://metube.ozcankrks.com](https://metube.ozcankrks.dev/ "https://metube.ozcankrks.dev")
 
 ### Ekran Görüntüleri
 
@@ -49,7 +49,7 @@ Metube php diline giriş ve Database deneyimi sağlamak adına oluşturulmuş bi
 
 #### Ulaşım Bilgileri
 
-**Site :** [https://ozcankrks.com](https://ozcankrks.com/ "https://ozcankrks.com")
+**Site :** [https://ozcankrks.com](https://ozcankrks.dev/ "https://ozcankrks.dev")
 **Mail Adresi** ozcan.krakus@gmail.com
 
 &copy; 2020
